@@ -1,4 +1,8 @@
-### Heyo, I'm Emmanuel Alabi, a sixteen year old Front-End Developer.
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternielsen112&show_icons=true&theme=dark)
+### Heyo, I'm Emmanuel Alabi
+<p>... sixteen year old Front-End Developer currently working with HTML, CSS, Javascript, and PHP</p>
+
+
 
 <!--
 **Emman29/emman29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
