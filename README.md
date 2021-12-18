@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyo, I'm Emmanuel Alabi, a sixteen year old Front-End Developer.
 
 <!--
 **Emman29/emman29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
