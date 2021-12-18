@@ -1,6 +1,6 @@
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternielsen112&show_icons=true&theme=dark)
-### Heyo, I'm Emmanuel Alabi
-<p>... sixteen year old Front-End Developer currently working with HTML, CSS, Javascript, and PHP</p>
+### Heyo, I'm Emmanuel Alabi (he/him)
+<p>... sixteen year old Front-End Developer currently working with HTML, CSS, Javascript, and PHP. I've been learning web development from the likes of w3Schools, freeCodeCamp and codecademy since 20166 and I still continue to do so. As of now, I can build a aesthetically pleasing webpage, whether it be personal or for a small business, designed to catch attention and stand out. If you're interested in that, drop me a message at alabiemmanuel029@gmail.com.</p>
 
 
 
