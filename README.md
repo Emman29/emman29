@@ -1,4 +1,4 @@
-####I'm [Emmanuel](https://ea29.netlify.app/), a fifteen year old front-end developer. I build websites, UI Components and several others.
+#### I'm [Emmanuel](https://ea29.netlify.app/), a fifteen year old front-end developer. I build websites, UI Components and several others.
 ![Emmauel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emman29&show_icons=true&theme=dark)
 
 
