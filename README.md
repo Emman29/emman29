@@ -6,15 +6,17 @@
 <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
 </div>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emman29&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
-
-![Emmauel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emman29&show_icons=true&theme=dark)
 
 ### What I'm working on:
 - [Periodic Table Index](https://github.com/Emman29/periodictableindex) - find elements from the periodic table and all it's information with little hassle
 - Studymate - A website for students with tricky homework.
 - [Skyrise](https://emman29.github.io/skyrise) - one-page website template
+
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emman29&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
+
+![Emmauel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emman29&show_icons=true&theme=dark)
+
 
 
 
