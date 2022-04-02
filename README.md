@@ -9,6 +9,7 @@
 
 ### What I'm working on:
 - [Periodic Table Index](https://github.com/Emman29/periodictableindex) - find elements from the periodic table and all it's information with little hassle
+- [Password Generator](https://emman29.github.io/passwordgenerator/)
 - Studymate - A website for students with tricky homework.
 - [Skyrise](https://emman29.github.io/skyrise) - one-page website template
 
