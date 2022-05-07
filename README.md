@@ -1,5 +1,5 @@
 <h1 style="text-align: center;"> Heyo, I'm Emmanuel Alabi, a fifteen year old front-end developer. </h1>
-<p>Based somewhere on planet earth (open to debate) I'm an aspiring web developer who creates websites, UI components and other useful things for the web while vibing to the League of Legends soundtracks. I have been learning programming from the likes of codecademy and W3Schools since 2016 and I still continue to do so, aspiring to create something new, or learn something new, every day.</p>
+<p>Based somewhere on planet earth (open to debate) I'm an aspiring web developer who creates websites, UI components and other useful things for the web while vibing to the League of Legends soundtracks. I have been learning programming from the likes of codecademy and W3Schools since 2016 and I still continue to do so, aspiring to create something new, or learn something new, every day. Lately I have dived into game development and can do quite a bit of that too.</p>
 
 ### What I can work with:
 <div align="left">
