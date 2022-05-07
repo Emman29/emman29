@@ -1,14 +1,17 @@
 <h1 style="text-align: center;"> Heyo, I'm Emmanuel Alabi, a fifteen year old front-end developer. </h1>
 <p>Based somewhere on planet earth (open to debate) I'm an aspiring web developer who creates websites, UI components and other useful things for the web while vibing to the League of Legends soundtracks. I have been learning programming from the likes of codecademy and W3Schools since 2016 and I still continue to do so, aspiring to create something new, or learn something new, every day.</p>
+
+### What I can work with:
 <div align="left">
 <img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/-Lua-blue?style=for-the-badge&logo=Lua&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=C&logoColor=white&labelColor=black">
 </div>
 
-### What I'm working on:
+### What I've been working on:
 - [Periodic Table Index](https://github.com/Emman29/periodictableindex) - find elements from the periodic table and all it's information with little hassle
 - [Password Generator](https://emman29.github.io/passwordgenerator/)
 - Studymate - A website for students with tricky homework.
