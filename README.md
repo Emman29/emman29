@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/-Lua-blue?style=for-the-badge&logo=Lua&logoColor=white&labelColor=black">
 </div>
 
 ### What I'm working on:
