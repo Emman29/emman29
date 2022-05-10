@@ -3,12 +3,12 @@
 
 ### What I can work with:
 <div align="left">
-<img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
-<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
-<img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=white&labelColor=black">
-<img src="https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
-<img src="https://img.shields.io/badge/-Lua-blue?style=for-the-badge&logo=Lua&logoColor=white&labelColor=black">
-<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=C&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/-CSS-red?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/-PHP-red?style=for-the-badge&logo=php&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/-Lua-red?style=for-the-badge&logo=Lua&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/-C-red?style=for-the-badge&logo=C&logoColor=white&labelColor=black">
 </div>
 
 ### What I've been working on:
