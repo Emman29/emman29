@@ -12,8 +12,9 @@
 </div>
 
 ### Projects:
-- [Periodic Table Index - Javascript](https://github.com/Emman29/periodictableindex)
-- [Password Generator - Javascript](https://emman29.github.io/passwordgenerator/)
+- [Javascript periodic table index](https://github.com/Emman29/periodictableindex)
+- [Javascript password generator](https://emman29.github.io/passwordgenerator/)
+- [C Greedy Algorithm](https://github.com/Emman29/GreedyAlgorithmC)
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emman29&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
