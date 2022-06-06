@@ -1,6 +1,7 @@
 <h1 style="text-align: center;"> Heyo, I'm Emmanuel Alabi. </h1>
 <p>Sixteen years old, and an aspiring web developer who can create websites and web-based applications. Also has some basic skillsets in game development and computer science, and an interest in AI</p>
-### What I can work with:
+
+### Skills:
 <div align="left">
 <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
 <img src="https://img.shields.io/badge/-CSS-red?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
@@ -10,7 +11,7 @@
 <img src="https://img.shields.io/badge/-C-red?style=for-the-badge&logo=C&logoColor=white&labelColor=black">
 </div>
 
-### What I've been up to:
+### Projects:
 - [Periodic Table Index - Javascript](https://github.com/Emman29/periodictableindex)
 - [Password Generator - Javascript](https://emman29.github.io/passwordgenerator/)
 
