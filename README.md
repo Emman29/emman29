@@ -1,6 +1,5 @@
-<h1 style="text-align: center;"> Heyo, I'm Emmanuel Alabi, a fifteen year old front-end developer. </h1>
-<p>Based somewhere on planet earth (open to debate) I'm an aspiring web developer who creates websites, UI components and other useful things for the web while vibing to the League of Legends soundtracks. I have been learning programming from the likes of codecademy and W3Schools since 2016 and I still continue to do so, aspiring to create something new, or learn something new, every day. Lately I have dived into game development and can do quite a bit of that too.</p>
-
+<h1 style="text-align: center;"> Heyo, I'm Emmanuel Alabi. </h1>
+<p>Sixteen years old, and an aspiring web developer who can create websites and web-based applications. Also has some basic skillsets in game development and computer science, and an interest in AI</p>
 ### What I can work with:
 <div align="left">
 <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
@@ -11,11 +10,9 @@
 <img src="https://img.shields.io/badge/-C-red?style=for-the-badge&logo=C&logoColor=white&labelColor=black">
 </div>
 
-### What I've been working on:
-- [Periodic Table Index](https://github.com/Emman29/periodictableindex) - find elements from the periodic table and all it's information with little hassle
-- [Password Generator](https://emman29.github.io/passwordgenerator/)
-- Studymate - A website for students with tricky homework.
-- [Skyrise](https://emman29.github.io/skyrise) - one-page website template
+### What I've been up to:
+- [Periodic Table Index - Javascript](https://github.com/Emman29/periodictableindex)
+- [Password Generator - Javascript](https://emman29.github.io/passwordgenerator/)
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emman29&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
